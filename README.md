@@ -70,4 +70,9 @@ What things cause errors?
 ## Author Information
 
 * Name: Lyna Tran
-* Email: lyna@uoguelph.ca
+
+## Acknowledgments
+Dr. Judi McCuaig for providing each class javadoc and code in:
+* Countable.java
+* GameRules.java
+* MancalaDataStructure.java
